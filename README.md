@@ -21,7 +21,7 @@ The dataset used in this project contains the following columns:
 - **heartRate**: Resting heart rate in beats per minute.
 - **glucose**: Blood glucose level in mg/dL.
 - **TenYearCHD**: Presence or absence of the ten-year risk of developing coronary heart disease (CHD) (0 for no risk, 1 for risk).
-- 
+  
 ## Data Exploration
 - Explored the dataset through visualizations to gain insights into the factors contributing to CHD risk.
 - Identified correlations between features and CHD risk.

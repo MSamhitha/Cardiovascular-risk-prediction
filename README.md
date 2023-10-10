@@ -1,7 +1,7 @@
 # Cardiovascular-risk-prediction
 This project aims to predict the ten-year risk of coronary heart disease (CHD) by leveraging machine learning models and exploratory data analysis (EDA).
-## Dataset Info
 
+## Dataset Info
 The dataset used in this project contains the following columns:
 
 - **id**: Represents a unique identifier for each individual in the dataset.
@@ -46,3 +46,18 @@ These models were assessed based on accuracy, precision, recall, and F1 Score to
 
 The Random Forest model, with an accuracy of 0.897569 and balanced precision, recall, and F1 Score, is recommended for CHD risk assessment.
 
+### Feature Importance
+Random Forest identified key features contributing to CHD risk prediction:
+1. Age
+2. Systolic Blood Pressure (sysBP)
+3. Total Cholesterol (totChol)
+4. Heart Rate
+5. Diastolic Blood Pressure (diaBP)
+6. Glucose Level
+7. BMI
+8. Education Level
+9. Cigarettes Per Day (cigsPerDay)
+10. Gender
+
+## Conclusion
+This project demonstrates the potential of data analytics and machine learning in predicting CHD risk. The Random Forest model, with its high accuracy and feature importance insights, is recommended for CHD risk assessment.

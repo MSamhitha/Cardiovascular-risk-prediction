@@ -37,7 +37,7 @@ Here is the evaluation table for the models:
 |----------------------------------|----------|-----------|---------|----------|
 | Logistic Regression              | 0.672743 | 0.658163  | 0.687389| 0.672459 |
 | Logistic Regression with Grid Search | 0.678819 | 0.664957  | 0.690941| 0.677700 |
-| Random Forest                    | 0.897569 | 0.895204  | 0.895204| 0.895204 |
+| **Random Forest**                    | **0.897569** |**0.895204** | **0.895204**| **0.895204** |
 | Random Forest with Randomized Search | 0.885417 | 0.880071  | 0.886323| 0.883186 |
 | Naive Bayes                      | 0.644097 | 0.637343  | 0.630551| 0.633929 |
 | Naive Bayes with Grid Search     | 0.644097 | 0.637343  | 0.630551| 0.633929 |
